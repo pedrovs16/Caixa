@@ -88,10 +88,12 @@ class TelaPython:
                     debitoNum += int(values['addDebito'])
                     print('*-' * 46)
                     print(f'O valor {values["addDebito"]} foi adicionado a débito')
+                    print(f'Valor de crédito até agora é {debitoNum}')
                 if event == 'dinheiroPlus' and values['addDinheiro'].isnumeric():
                     dinheiroNum += int(values['addDinheiro'])
                     print('*-' * 46)
                     print(f'O valor {values["addDinheiro"]} foi adicionado a dinheiro')
+                    print(f'Valor de crédito até agora é {dinheiroNum}')
                 if event == 'addButton' and values['addCredito'].isnumeric() \
                         and values['addDebito'].isnumeric() and values['addDinheiro'].isnumeric():
                     mes = values['addMes']

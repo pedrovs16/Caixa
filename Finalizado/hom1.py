@@ -53,7 +53,7 @@ def opcao2(nome):
     else:
         print('*-' * 46)
         print('...')
-        print(f'DATA{"CRÉDITO":>22}{"""DÉBITO""":>12}{"DINHEIRO":>15}{"MÉDIA":>15}')
+        print(f'DATA{"CRÉDITO":>22}{"""DÉBITO""":>12}{"DINHEIRO":>15}{"TOTAL":>15}')
         print('-' * 98)
         for linha in arquivo:
             dado = linha.split(';')
@@ -108,8 +108,8 @@ def opcao3(nome, mesInicio1, diaInicio1, mesFinal1, diaFinal1):
             if error == False:
                 print('Algum valor foi digitado errado')
     except:
-        print('*-' * 46)
         print('Algum valor foi digitado errado.')
+        print('*-' * 46)
 
 
 def opcao4(nome, mesInicio1, diaInicio1, mesFinal1, diaFinal1, mesInicio2, diaInicio2, mesFinal2, diaFinal2):
