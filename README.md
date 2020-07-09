@@ -13,13 +13,25 @@
 - Comparar períodos
 
 ## Prática
+<h3>Cadastrar um novo dia</h3>
 
-<img alt="cadastrarDia1" title="#logo"  src="/Finalizado/README/cadastrarDia1.png">
-<img alt="cadastrarDia2" title="#logo"  src="/Finalizado/README/cadastrarDia2.png">
-<img alt="compararPeriodos1" title="#logo"  src="/Finalizado/README/compararPeriodos1.png">
-<img alt="compararPeriodos2" title="#logo"  src="/Finalizado/README/compararPeriodos2.png">
+<img alt="cadastrarDia1" title="#logo"  src="/README/cadastrarDia1.png">
+<img alt="cadastrarDia2" title="#logo"  src="/README/cadastrarDia2.png">
 
-## Celular
+<h3>Ver cadastros</h3>
+<img alt="verCadastro" title="#logo"  src="/README/verCadastros.png">
+
+<h3>Ver cadastros</h3>
+<img alt="escolherPeriodo1" title="#logo"  src="/README/escolherPeriodo1.png">
+<img alt="escolherPeriodo2" title="#logo"  src="/README/escolherPeriodo2.png">
+
+<h3>Comparar períodos</h3>
+<img alt="compararPeriodos1" title="#logo"  src="/README/compararPeriodos1.png">
+<img alt="compararPeriodos2" title="#logo"  src="/README/compararPeriodos2.png">
+
+## Observação
+Caso ocorra um cadastro errado, parar mudar manualmente vá para /Finalizado/Executável/Caixa e faça a devida mudança
+
 
 
 
