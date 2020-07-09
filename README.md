@@ -13,19 +13,19 @@
 - Comparar períodos
 
 ## Prática
-<h3>Cadastrar um novo dia</h3>
+<h1>Cadastrar um novo dia</h1>
 
 <img alt="cadastrarDia1" title="#logo"  src="/README/cadastrarDia1.png">
 <img alt="cadastrarDia2" title="#logo"  src="/README/cadastrarDia2.png">
 
-<h3>Ver cadastros</h3>
+<h1>Ver cadastros</h1>
 <img alt="verCadastro" title="#logo"  src="/README/verCadastros.png">
 
-<h3Analizar período</h3>
+<h1>Analizar período</h1>
 <img alt="escolherPeriodo1" title="#logo"  src="/README/escolherPeriodo1.png">
 <img alt="escolherPeriodo2" title="#logo"  src="/README/escolherPeriodo2.png">
 
-<h3>Comparar períodos</h3>
+<h1>Comparar períodos</h1>
 <img alt="compararPeriodos1" title="#logo"  src="/README/compararPeriodos1.png">
 <img alt="compararPeriodos2" title="#logo"  src="/README/compararPeriodos2.png">
 
