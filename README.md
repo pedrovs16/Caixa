@@ -14,10 +14,10 @@
 
 ## Prática
 
-<img alt="cadastrarDia1" title="#logo"  src="/README/cadastrarDia1.png">
-<img alt="cadastrarDia2" title="#logo"  src="/README/cadastrarDia2.png">
-<img alt="compararPeriodos1" title="#logo"  src="/README/compararPeriodos1.png">
-<img alt="compararPeriodos2" title="#logo"  src="/README/compararPeriodos2.png">
+<img alt="cadastrarDia1" title="#logo"  src="./README/cadastrarDia1.png">
+<img alt="cadastrarDia2" title="#logo"  src="./README/cadastrarDia2.png">
+<img alt="compararPeriodos1" title="#logo"  src="./README/compararPeriodos1.png">
+<img alt="compararPeriodos2" title="#logo"  src="./README/compararPeriodos2.png">
 
 ## Celular
 
