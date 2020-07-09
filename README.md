@@ -21,7 +21,7 @@
 <h3>Ver cadastros</h3>
 <img alt="verCadastro" title="#logo"  src="/README/verCadastros.png">
 
-<h3>Ver cadastros</h3>
+<h3Analizar período</h3>
 <img alt="escolherPeriodo1" title="#logo"  src="/README/escolherPeriodo1.png">
 <img alt="escolherPeriodo2" title="#logo"  src="/README/escolherPeriodo2.png">
 
