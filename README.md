@@ -33,9 +33,6 @@
 Caso ocorra um cadastro errado, parar mudar manualmente vá para /Finalizado/Executável/Caixa e faça a devida mudança
 
 
-
-
-
 <hr>
 
 #####  Feito por Pedro Viana - Contato(https://www.linkedin.com/in/pedro-viana-886a361a7/)
